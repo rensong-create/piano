@@ -1,0 +1,20 @@
+/* 基础样式 */
+body {
+  font-family: 'Microsoft YaHei', sans-serif;
+  line-height: 1.6;
+}
+
+/* 导航栏样式 */
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 5%;
+}
+
+/* 首图区域 */
+.hero {
+  height: 60vh;
+  background: center/cover no-repeat;
+  display: flex;
+  align-items: center;
+}
